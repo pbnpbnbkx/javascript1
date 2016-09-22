@@ -1,0 +1,6 @@
+C:\Users\ShinChin\Documents\Visual Studio 2013\ProjectsTest\0MyWebForm\0javascript\javascript1\javascript1\bin\javascript1.dll.config
+C:\Users\ShinChin\Documents\Visual Studio 2013\ProjectsTest\0MyWebForm\0javascript\javascript1\javascript1\bin\javascript1.dll
+C:\Users\ShinChin\Documents\Visual Studio 2013\ProjectsTest\0MyWebForm\0javascript\javascript1\javascript1\bin\javascript1.pdb
+C:\Users\ShinChin\Documents\Visual Studio 2013\ProjectsTest\0MyWebForm\0javascript\javascript1\javascript1\obj\Debug\javascript1.csprojResolveAssemblyReference.cache
+C:\Users\ShinChin\Documents\Visual Studio 2013\ProjectsTest\0MyWebForm\0javascript\javascript1\javascript1\obj\Debug\javascript1.dll
+C:\Users\ShinChin\Documents\Visual Studio 2013\ProjectsTest\0MyWebForm\0javascript\javascript1\javascript1\obj\Debug\javascript1.pdb
